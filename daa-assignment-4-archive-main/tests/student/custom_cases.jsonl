@@ -1,0 +1,16 @@
+{"task":"lcs","a":"ABCDE","b":"ABCDE"}
+{"task":"lcs","a":"ABCDE","b":"FGHIJ"}
+{"task":"merge","sizes":[10,20,30,40,50]}
+{"task":"merge","sizes":[100,200]}
+{"task":"tree","n":5,"weights":[100,10,10,10,10],"edges":[[0,1],[0,2],[0,3],[0,4]]}
+{"task":"tree","n":5,"weights":[10,1,10,1,10],"edges":[[0,1],[1,2],[2,3],[3,4]]}
+{"task":"naive","text":"hello","pattern":"hello"}
+{"task":"naive","text":"abcdef","pattern":"abcdefgh"}
+{"task":"kmp","text":"aaaaa","pattern":"aa"}
+{"task":"kmp","text":"the quick brown fox","pattern":"fox"}
+{"task":"rk","text":"abczdj","pattern":"ab"}
+{"task":"rk","text":"bczzek","pattern":"bc"}
+{"task":"suffix","text":"aaaa"}
+{"task":"suffix","text":"abcdef"}
+{"task":"aho","patterns":["a","aa","aaa"],"texts":["aaaa","a"]}
+{"task":"aho","patterns":["test","test"],"texts":["testtest"]}

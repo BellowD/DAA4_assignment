@@ -1,0 +1,16 @@
+{"length":5,"sequence":"ABCDE"}
+{"length":0,"sequence":""}
+{"cost":330,"plan":[[0,0,1],[0,1,2],[3,3,4],[0,2,4]]}
+{"cost":300,"plan":[[0,0,1]]}
+{"weight":100,"selected":[0]}
+{"weight":30,"selected":[0,2,4]}
+{"positions":[0]}
+{"positions":[]}
+{"positions":[0,1,2,3]}
+{"positions":[16]}
+{"positions":[0]}
+{"positions":[0]}
+{"sa":[3,2,1,0],"lcp":[0,1,2,3],"repeated":"aaa"}
+{"sa":[0,1,2,3,4,5],"lcp":[0,0,0,0,0,0],"repeated":""}
+{"counts":[[4,3,2],[1,0,0]]}
+{"counts":[[2,2]]}
